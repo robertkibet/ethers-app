@@ -1,0 +1,23 @@
+{
+  "name": "ethers-app",
+  "version": "1.0.0",
+  "description": "simple ethers usecases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertkibet/ethers-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertkibet/ethers-app/issues"
+  },
+  "homepage": "https://github.com/robertkibet/ethers-app#readme",
+  "dependencies": {
+    "ethers": "^5.6.5"
+  }
+}
